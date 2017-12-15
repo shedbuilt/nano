@@ -1,5 +1,5 @@
 NAME=nano
 VERSION=2.8.7
-REVISION=1
+REVISION=2
 SRC=https://www.nano-editor.org/dist/v2.8/nano-2.8.7.tar.xz
 SRCMD5=733b3f80a0a2f44fb25de6c6d3a583cf

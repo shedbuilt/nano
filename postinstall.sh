@@ -1,4 +1,4 @@
 #!/bin/bash
 if [ ! -e /etc/nanorc ]; then
-    install -v -Dm644 $SHED_CONTRIBDIR/nanorc /etc/nanorc
+    install -v -m644 /etc/nanorc.default /etc/nanorc
 fi
