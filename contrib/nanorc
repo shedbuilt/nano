@@ -10,3 +10,5 @@ set quickblank
 set regexp
 set smooth
 set suspend
+set tabsize 4
+include /usr/share/nano/*.nanorc
