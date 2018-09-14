@@ -1,6 +1,6 @@
 NAME=nano
 VERSION=3.0
-REVISION=1
+REVISION=0
 SRC=https://www.nano-editor.org/dist/v3/nano-3.0.tar.xz
 SRCMD5=74196427a09ec2f82a88facd220d2787
 CLEANUP=yes
